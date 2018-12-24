@@ -1,2 +1,4 @@
 hello git!
 im coming!
+ok im git,i've receivered your msg!
+hello, master!
